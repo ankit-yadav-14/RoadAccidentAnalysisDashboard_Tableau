@@ -26,5 +26,6 @@ Objective: The main aim of this dashboard is to provide insights into accidents 
 <p>Donut charts ⭕: These are custom charts that shows casualties by weather condition and road surfaces.</p>
 <p>Bar chart 📊: It shows the casualties based on road types.</p>
 <p>Maps 🌐: Displays the information about accident severity, number of casualties in different areas.</p>
+<p>The dataset for this dashboard : https://drive.google.com/file/d/1FrcSvZfybk3x70cquG7sSaggFavNeWtu/view?usp=drive_link</p>
 #DataAnalysis #Tableau #GitHub #DataVisualization
 
